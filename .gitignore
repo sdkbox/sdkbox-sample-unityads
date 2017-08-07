@@ -1,0 +1,15 @@
+*.zip
+.*
+contents.xcworkspacedata
+xcuserdata/
+
+# android project
+local.properties
+obj/
+bin/
+gen/
+libs/
+simulator/
+
+# iOS project
+build/
