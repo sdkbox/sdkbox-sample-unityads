@@ -13,3 +13,6 @@ simulator/
 
 # iOS project
 build/
+
+!.sdkbox_packages.json
+!.cocos-project.json
